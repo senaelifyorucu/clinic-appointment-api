@@ -12,7 +12,10 @@ It supports full CRUD operations, filtering, validation, and error handling.
 - Custom error responses
    📷 API TESTS (POSTMAN)
 
+  ## 🔗 Base URL
+http://localhost:5182/api/appointments
 
+𝘈𝘗𝘐 𝘛𝘌𝘚𝘛𝘚 (𝘗𝘖𝘚𝘛𝘔𝘈𝘕)
 
 1️⃣ Get All Appointments
 
